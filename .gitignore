@@ -1,0 +1,10 @@
+# Ignore all log files
+*.log
+
+# Ignore Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore Jupyter Notebook auto-generated outputs (optional)
+**/*.nbconvert.ipynb
+**/*.pyc
+**/__pycache__/
