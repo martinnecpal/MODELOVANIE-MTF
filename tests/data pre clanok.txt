@@ -1,0 +1,222 @@
+
+ 
+ Cutting speed : 800.0 met/min 
+------------------------------------------------
+
+C0 : 5.187
+delta : 0.01
+Internal error : 3.77e-07 Pa
+Shear angle : 24.69 deg
+Cutting force Fc   : 197.7 N (247.1 N/mm)
+Advancing force Fa : 83.3 N (104.2 N/mm)
+Chip thickness : 0.27 mm
+Tool/Chip contact length : 0.29 mm
+Strain in zone 1 : 0.8
+Strain rate in zone 1 : 148341.5 ms-1
+Temperature in zone 1 : 330.8 °C
+Stress in zone 1 : 581.6 MPa
+Strain in zone 2 : 31.72
+Strain rate in zone 2 : 1368364.3 ms-1
+Temperature in zone 2 : 1155.0 °C
+Stress in zone 2 : 900.4 MPa
+ 
+ Cutting speed : 900.0 met/min 
+------------------------------------------------
+
+C0 : 5.153
+delta : 0.009
+Internal error : 2.086e-07 Pa
+Shear angle : 25.12 deg
+Cutting force Fc   : 194.6 N (243.2 N/mm)
+Advancing force Fa : 79.2 N (99.0 N/mm)
+Chip thickness : 0.26 mm
+Tool/Chip contact length : 0.28 mm
+Strain in zone 1 : 0.79
+Strain rate in zone 1 : 169294.9 ms-1
+Temperature in zone 1 : 330.3 °C
+Stress in zone 1 : 581.9 MPa
+Strain in zone 2 : 35.77
+Strain rate in zone 2 : 1828007.0 ms-1
+Temperature in zone 2 : 1173.2 °C
+Stress in zone 2 : 906.6 MPa
+ 
+ Cutting speed : 1000.0000000000001 met/min 
+------------------------------------------------
+
+C0 : 5.124
+delta : 0.008
+Internal error : 6.079e-07 Pa
+Shear angle : 25.5 deg
+Cutting force Fc   : 192.0 N (239.9 N/mm)
+Advancing force Fa : 75.7 N (94.7 N/mm)
+Chip thickness : 0.26 mm
+Tool/Chip contact length : 0.27 mm
+Strain in zone 1 : 0.78
+Strain rate in zone 1 : 190454.6 ms-1
+Temperature in zone 1 : 329.9 °C
+Stress in zone 1 : 582.2 MPa
+Strain in zone 2 : 39.91
+Strain rate in zone 2 : 2367882.4 ms-1
+Temperature in zone 2 : 1189.1 °C
+Stress in zone 2 : 911.8 MPa
+ 
+ Cutting speed : 1100.0 met/min 
+------------------------------------------------
+
+C0 : 5.1
+delta : 0.007
+Internal error : 1.5246e-06 Pa
+Shear angle : 25.83 deg
+Cutting force Fc   : 189.7 N (237.1 N/mm)
+Advancing force Fa : 72.7 N (90.9 N/mm)
+Chip thickness : 0.25 mm
+Tool/Chip contact length : 0.27 mm
+Strain in zone 1 : 0.78
+Strain rate in zone 1 : 211795.2 ms-1
+Temperature in zone 1 : 329.7 °C
+Stress in zone 1 : 582.5 MPa
+Strain in zone 2 : 44.13
+Strain rate in zone 2 : 2991020.0 ms-1
+Temperature in zone 2 : 1202.9 °C
+Stress in zone 2 : 916.2 MPa
+ 
+ Cutting speed : 1200.0 met/min 
+------------------------------------------------
+
+C0 : 5.079
+delta : 0.006
+Internal error : 1.686e-07 Pa
+Shear angle : 26.13 deg
+Cutting force Fc   : 187.7 N (234.6 N/mm)
+Advancing force Fa : 70.1 N (87.7 N/mm)
+Chip thickness : 0.25 mm
+Tool/Chip contact length : 0.26 mm
+Strain in zone 1 : 0.77
+Strain rate in zone 1 : 233296.0 ms-1
+Temperature in zone 1 : 329.5 °C
+Stress in zone 1 : 582.7 MPa
+Strain in zone 2 : 48.42
+Strain rate in zone 2 : 3700425.1 ms-1
+Temperature in zone 2 : 1215.2 °C
+Stress in zone 2 : 920.1 MPa
+ 
+ Cutting speed : 1300.0 met/min 
+------------------------------------------------
+
+C0 : 5.06
+delta : 0.006
+Internal error : 6.027e-07 Pa
+Shear angle : 26.39 deg
+Cutting force Fc   : 185.9 N (232.4 N/mm)
+Advancing force Fa : 67.8 N (84.8 N/mm)
+Chip thickness : 0.25 mm
+Tool/Chip contact length : 0.26 mm
+Strain in zone 1 : 0.76
+Strain rate in zone 1 : 254940.3 ms-1
+Temperature in zone 1 : 329.4 °C
+Stress in zone 1 : 582.9 MPa
+Strain in zone 2 : 52.78
+Strain rate in zone 2 : 4499105.6 ms-1
+Temperature in zone 2 : 1226.2 °C
+Stress in zone 2 : 923.4 MPa 
+ 
+ Cutting speed : 1400.0 met/min 
+------------------------------------------------
+
+C0 : 5.044
+delta : 0.005
+Internal error : 2.458e-07 Pa
+Shear angle : 26.63 deg
+Cutting force Fc   : 184.3 N (230.4 N/mm)
+Advancing force Fa : 65.8 N (82.2 N/mm)
+Chip thickness : 0.24 mm
+Tool/Chip contact length : 0.26 mm
+Strain in zone 1 : 0.76
+Strain rate in zone 1 : 276714.1 ms-1
+Temperature in zone 1 : 329.4 °C
+Stress in zone 1 : 583.0 MPa
+Strain in zone 2 : 57.2
+Strain rate in zone 2 : 5389606.6 ms-1
+Temperature in zone 2 : 1236.0 °C
+Stress in zone 2 : 926.4 MPa
+ 
+ Cutting speed : 1500.0 met/min 
+------------------------------------------------
+
+C0 : 5.03
+delta : 0.005
+Internal error : 4.768e-07 Pa
+Shear angle : 26.85 deg
+Cutting force Fc   : 182.9 N (228.6 N/mm)
+Advancing force Fa : 63.9 N (79.9 N/mm)
+Chip thickness : 0.24 mm
+Tool/Chip contact length : 0.25 mm
+Strain in zone 1 : 0.76
+Strain rate in zone 1 : 298605.5 ms-1
+Temperature in zone 1 : 329.4 °C
+Stress in zone 1 : 583.2 MPa
+Strain in zone 2 : 61.68
+Strain rate in zone 2 : 6374940.6 ms-1
+Temperature in zone 2 : 1245.0 °C
+Stress in zone 2 : 929.0 MPa
+ 
+ Cutting speed : 1600.0 met/min 
+------------------------------------------------
+
+C0 : 5.017
+delta : 0.005
+Internal error : 5.787e-07 Pa
+Shear angle : 27.05 deg
+Cutting force Fc   : 181.6 N (227.0 N/mm)
+Advancing force Fa : 62.3 N (77.8 N/mm)
+Chip thickness : 0.24 mm
+Tool/Chip contact length : 0.25 mm
+Strain in zone 1 : 0.75
+Strain rate in zone 1 : 320604.5 ms-1
+Temperature in zone 1 : 329.5 °C
+Stress in zone 1 : 583.3 MPa
+Strain in zone 2 : 66.21
+Strain rate in zone 2 : 7456035.5 ms-1
+Temperature in zone 2 : 1253.1 °C
+Stress in zone 2 : 931.3 MPa
+ 
+ Cutting speed : 1700.0 met/min 
+------------------------------------------------
+
+C0 : 5.006
+delta : 0.004
+Internal error : 2.666e-07 Pa
+Shear angle : 27.23 deg
+Cutting force Fc   : 180.4 N (225.5 N/mm)
+Advancing force Fa : 60.8 N (76.0 N/mm)
+Chip thickness : 0.24 mm
+Tool/Chip contact length : 0.25 mm
+Strain in zone 1 : 0.75
+Strain rate in zone 1 : 342702.3 ms-1
+Temperature in zone 1 : 329.6 °C
+Stress in zone 1 : 583.4 MPa
+Strain in zone 2 : 70.8
+Strain rate in zone 2 : 8636429.2 ms-1
+Temperature in zone 2 : 1260.5 °C
+Stress in zone 2 : 933.4 MPa
+ 
+ Cutting speed : 1800.0 met/min 
+------------------------------------------------
+
+C0 : 4.995
+delta : 0.004
+Internal error : 6.664e-07 Pa
+Shear angle : 27.4 deg
+Cutting force Fc   : 179.3 N (224.1 N/mm)
+Advancing force Fa : 59.4 N (74.2 N/mm)
+Chip thickness : 0.24 mm
+Tool/Chip contact length : 0.25 mm
+Strain in zone 1 : 0.75
+Strain rate in zone 1 : 364891.4 ms-1
+Temperature in zone 1 : 329.7 °C
+Stress in zone 1 : 583.5 MPa
+Strain in zone 2 : 75.44
+Strain rate in zone 2 : 9917788.8 ms-1
+Temperature in zone 2 : 1267.3 °C
+Stress in zone 2 : 935.3 MPa
+ 
