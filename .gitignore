@@ -1,10 +1,74 @@
-# Ignore all log files
-*.log
+# Jupyter Notebook and Lab temporary files
+.ipynb_checkpoints/
+.jupyter_ystore.db
+.virtual_documents/
 
-# Ignore Jupyter Notebook checkpoints
-**/.ipynb_checkpoints/
+# Python virtual environments
+venv/
+.env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
-# Ignore Jupyter Notebook auto-generated outputs (optional)
-**/*.nbconvert.ipynb
-**/*.pyc
-**/__pycache__/
+# Jupyter configuration and logs
+.jupyter/
+.jupyterlab-workspaces/
+.jupyterlab-settings/
+.jupyterlab/  # Older versions might store settings here
+.lab/
+.ipython/
+
+# VSCode and editor-specific settings
+.vscode/
+*.swp
+*.swo
+*.idea/
+
+# Python package dependencies
+*.egg-info/
+dist/
+build/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Conda environment files
+conda-meta/
+envs/
+
+# Data files and model outputs (customize as needed)
+#*.csv
+#*.h5
+#*.hdf5
+#*.json
+#*.sqlite
+#*.db
+#*.log
+#*.sav
+#*.pkl
+#*.joblib
+
+# Large data and output files (customize as needed)
+#.DS_Store
+#Thumbs.db
+#*.bak
+#*.out
+#*.pdf
+#*.png
+#*.jpg
+#*.jpeg
+#*.gif
+#*.mp4
+#*.mov
+#*.zip
+#*.tar
+#*.gz
+#*.tgz
+#*.bz2
+
+# Hidden system files (Mac/Linux/Windows)
+*.~lock*
+*.bak
+*.swp
+*.swo
