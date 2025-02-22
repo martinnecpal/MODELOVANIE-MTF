@@ -26,6 +26,9 @@ __pycache__/
 *.swo
 *.idea/
 
+# PyCharm project files
+.idea/
+
 # Python package dependencies
 *.egg-info/
 dist/
