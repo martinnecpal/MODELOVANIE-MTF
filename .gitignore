@@ -50,6 +50,8 @@ envs/
 #*.joblib
 
 # Large data and output files (customize as needed)
+#logs adr from my testing
+tests/logs/
 #.DS_Store
 #Thumbs.db
 #*.bak
