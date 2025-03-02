@@ -1,12 +1,20 @@
 import os
 import re
+import sys
 
-TEMPLATE_DIR = "templates"  # Set your templates folder
 
 def convert_to_flask_links(file_path):
-    """Read an HTML file and replace href/src paths with Flask-friendly url_for()."""
+    """Reads an HTML file and replaces href/src paths with Flask-friendly url_for()."""
+
+    if not os.path.exists(file_path):
+        print(f"❌ Error: File '{file_path}' not found.")
+        return
+
     with open(file_path, "r", encoding="utf-8") as f:
         content = f.read()
+
+    # Ensure paths use forward slashes (important for Windows users)
+    content = content.replace("\\", "/")
 
     # Replace href="assets/..." → href="{{ url_for('static', filename='assets/...') }}"
     content = re.sub(r'href="assets/(.*?)"', r'href="{{ url_for(\'static\', filename=\'assets/\1\') }}"', content)
@@ -14,17 +22,17 @@ def convert_to_flask_links(file_path):
     # Replace src="assets/..." → src="{{ url_for('static', filename='assets/...') }}"
     content = re.sub(r'src="assets/(.*?)"', r'src="{{ url_for(\'static\', filename=\'assets/\1\') }}"', content)
 
+    # Write back to the same file
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(content)
 
-def process_templates():
-    """Loop through all HTML files in the templates folder."""
-    for root, _, files in os.walk(TEMPLATE_DIR):
-        for file in files:
-            if file.endswith(".html"):
-                file_path = os.path.join(root, file)
-                print(f"Processing: {file_path}")
-                convert_to_flask_links(file_path)
+    print(f"✅ Successfully updated: {file_path}")
 
-# Run the script
-process_templates()
+
+if __name__ == "__main__":
+    if len(sys.argv) != 2:
+        print("❌ Usage: python fix_template.py <path_to_html_file>")
+        sys.exit(1)
+
+    html_file = sys.argv[1]
+    convert_to_flask_links(html_file)
